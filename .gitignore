@@ -1,0 +1,11 @@
+#database
+db.sqlite3
+
+#pycharm file
+/blogpy/__pycache__
+
+#venv
+venvs
+
+.idea
+
