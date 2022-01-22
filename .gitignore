@@ -9,3 +9,6 @@ venvs
 
 .idea
 
+#blog
+/blog/migrations
+
